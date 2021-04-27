@@ -40,6 +40,8 @@ _UpgradeReport_Files/
 *.sln.cache
 *.tmp*.vcproj
 .vscode/
+*.vcxproj
+*.vcxproj.filters
 
 # Profiling files
 *.profraw
